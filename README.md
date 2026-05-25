@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Seetha
+# 👋 Hi, I'm Seetha Pavan Kalyan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Seetha-Kalyan&color=blue&style=flat)
 
