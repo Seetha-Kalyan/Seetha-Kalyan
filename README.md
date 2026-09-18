@@ -5,6 +5,11 @@
 ---
 
 ## 🚀 SECTION C: TECH STACK
+### Programming
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javat&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,6 +17,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Databases Technologies: RDBMS, MongoDB, SQL 
+![My_SQL](https://img.shields.io/badge/My_sql-F7DF1E?style=for-the-badge&logo=my_sql&logoColor=blue)
+![Mongodb](https://img.shields.io/badge/Mongodb-F7DF1E?style=for-the-badge&logo=Mongodb&logoColor=black)
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
